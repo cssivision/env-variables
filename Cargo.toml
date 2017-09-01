@@ -2,5 +2,10 @@
 name = "env-proxy"
 version = "0.1.0"
 authors = ["cssivision <cssivision@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/cssivision/env-proxy"
+homepage = "https://github.com/cssivision/env-proxy"
+description = "extract proxy env variables"
+readme = "README.md"
 
 [dependencies]
