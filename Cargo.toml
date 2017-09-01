@@ -1,10 +1,10 @@
 [package]
-name = "env-proxy"
+name = "env-variables"
 version = "0.1.0"
 authors = ["cssivision <cssivision@gmail.com>"]
 license = "MIT"
-repository = "https://github.com/cssivision/env-proxy"
-homepage = "https://github.com/cssivision/env-proxy"
+repository = "https://github.com/cssivision/env-variables"
+homepage = "https://github.com/cssivision/env-variables"
 description = "extract proxy env variables"
 readme = "README.md"
 
