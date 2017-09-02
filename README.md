@@ -20,7 +20,7 @@ env-variables = "0.1"
 Next, add this to your crate:
 
 ```rust
-extern crate env-variables;
+extern crate env_variables;
 ```
 
 # Licenses
