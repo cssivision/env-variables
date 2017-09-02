@@ -20,7 +20,8 @@ env-variables = "0.1"
 Next, add this to your crate:
 
 ```rust
-extern crate tokio_socks5;
+extern crate env-variables;
+```
 
 # Licenses
 
