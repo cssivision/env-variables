@@ -1,5 +1,9 @@
 # env-variables
 
+[![Build Status](https://img.shields.io/travis/cssivision/env-variables.svg?style=flat-square)](https://travis-ci.org/cssivision/env-variables)
+[![crate](https://img.shields.io/crates/v/env-variables.svg)](https://crates.io/crates/env-variables)
+[![License](http://img.shields.io/badge/license-mit-blue.svg)](https://github.com/cssivision/env-variables/blob/master/LICENSE)
+
 [Documentation](https://docs.rs/env-variables)
 
 async socks5 protocol base on tokio.
