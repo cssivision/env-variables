@@ -6,7 +6,7 @@
 
 [Documentation](https://docs.rs/env-variables)
 
-async socks5 protocol base on tokio.
+extract proxy env variables.
 
 ## Usage
 
