@@ -9,3 +9,7 @@ description = "extract proxy env variables"
 readme = "README.md"
 
 [dependencies]
+url = "1.5"
+
+[dev-dependencies]
+lazy_static = "0.2"
